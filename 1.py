@@ -3,3 +3,6 @@ def pp():
 
 pp()
 pp()
+
+def bug():
+    print('naoru')
