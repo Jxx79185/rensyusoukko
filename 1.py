@@ -16,3 +16,7 @@ def clone():
 
 def clone1():
     print('公司dev分支开发')
+
+
+def clone2():
+    print('新的拉取')
