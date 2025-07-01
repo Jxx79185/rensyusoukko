@@ -20,3 +20,6 @@ def clone1():
 
 def clone2():
     print('新的拉取')
+
+def kaisya():
+    print('公司编写的功能')
