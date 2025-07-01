@@ -21,5 +21,10 @@ def clone1():
 def clone2():
     print('新的拉取')
 
+<<<<<<< HEAD
 def kaisya():
     print('公司编写的功能')
+=======
+def ie():
+    print('在家写的其他功能')
+>>>>>>> 94270ced872534cf8a0b457cade0d0c922300d92
